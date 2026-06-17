@@ -1,0 +1,16 @@
+Python
+Django
+Flask
+FastAPI
+JavaScript
+TypeScript
+React
+Node.js
+PostgreSQL
+MySQL
+MongoDB
+Docker
+Kubernetes
+AWS
+Git
+Linux
